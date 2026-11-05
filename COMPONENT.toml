@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-dos-reactos"
+description = "ReactOS DOS subsystem and NTVDM integration"
+version = "0.1.0"
+tier = 3
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources", "Minimal-Kernel"]
