@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-dos-reactos"
-description = "ReactOS DOS subsystem and NTVDM integration"
+description = "SigmaOS DOS ReactOS - ReactOS DOS subsystem INT 21h compatibility"
 version = "0.1.0"
 tier = 3
 
